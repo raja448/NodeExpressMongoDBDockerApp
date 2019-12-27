@@ -52,6 +52,6 @@ Interested in learning more about Docker? Visit https://www.pluralsight.com/cour
 
 7. Navigate to http://localhost:3000 in your browser.
 
-#app
+
 
 
