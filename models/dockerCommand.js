@@ -4,6 +4,7 @@ var mongoose        = require('mongoose'),
     Schema          = mongoose.Schema,
     ObjectId        = Schema.Types.ObjectId;
     
+
 var exampleSchema = Schema({
     example     : { type: String, required: true },
     description : { type: String, required: true },
