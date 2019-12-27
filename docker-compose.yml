@@ -21,3 +21,4 @@ services:
 networks:
   nodeapp-network:
     driver: bridge
+    
