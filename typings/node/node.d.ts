@@ -116,6 +116,7 @@ declare var Buffer: {
     /**
      * Copies the passed {buffer} data onto a new {Buffer} instance.
      *
+     
      * @param buffer The buffer to copy.
      */
     new (buffer: Buffer): Buffer;
